@@ -12,15 +12,14 @@ This program makes use of the numpy library in order ot create a 2D array that a
 
 ### Executing program
 
-* The program requires minimal interaction, the user need only enter a positive, odd integer. Thereafter a function to create the magic square is called and then a 
+The program requires minimal interaction, the user need only enter a positive, odd integer. Thereafter a function to create the magic square is called and then a 
 test funtion is called to ensure that every row, column and diagonal equate to the same total, proving that it is in fact, a magic square.
 
 If the user enters a negative or even number, they will be prompted to enter a positive/odd one.
 
 ## Authors
 
-* HyperionDev
-* Kirsten Forrester
+ Kirsten Forrester
 
 ## Contributors names and contact info
 
