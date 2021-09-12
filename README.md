@@ -4,7 +4,7 @@
 
 This is a program that creates magic squares (a block whereby each column, row and diagonal have the same sum total). 
 
-It works specifically with odd, positive input and will propmt the user to enter a new integer if the user enters a negatiive/even number.
+It works specifically with odd, positive input and will prompt the user to enter a new integer if the user enters a negatiive/even number.
 
 ### Dependencies
 
